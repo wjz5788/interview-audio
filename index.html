@@ -1,13 +1,20 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh">
 <head>
   <meta charset="UTF-8" />
-  <title>面试题库 - GitHub Pages</title>
+  <title>题库音频预览</title>
 </head>
 <body>
-  <h1>🎤 欢迎访问我的面试题库</h1>
-  <p>📁 <a href="questions.json">点击查看题库 JSON</a></p>
-  <p>🎧 <a href="q1_teacherA.mp3">试听题目音频示例</a></p>
-  <p>👨‍🏫 Powered by GitHub Pages</p>
+  <h1>🎧 面试题音频预览</h1>
+
+  <p>1. 老师朗读示例：</p>
+  <audio controls>
+    <source src="teacher_voice_sample.mp3" type="audio/mpeg" />
+    您的浏览器不支持 audio 元素。
+  </audio>
+
+  <p>2. 如需上传更多音频，请将文件命名为：<code>interview_q1_female.mp3</code>、<code>interview_q2_female.mp3</code> 等</p>
+
+  <p>✅ 文件会托管在 GitHub Pages 上，供小程序调用</p>
 </body>
 </html>
