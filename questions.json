@@ -2,16 +2,56 @@
   {
     "id": 1,
     "content": "请简要介绍一下你自己。",
-    "audio": "https://yourname.github.io/interview-audio/q1_teacherA.mp3"
+    "audio": "https://wjz5788.github.io/interview-audio/1.mp3"
   },
   {
     "id": 2,
     "content": "请谈谈你的优缺点。",
-    "audio": "https://yourname.github.io/interview-audio/q2_teacherB.mp3"
+    "audio": "https://wjz5788.github.io/interview-audio/2.mp3"
   },
   {
     "id": 3,
-    "content": "你为什么想加入我们公司？",
-    "audio": "https://yourname.github.io/interview-audio/q3_teacherA.mp3"
+    "content": "请谈谈你职业生涯中最成功的一件事。",
+    "audio": "https://wjz5788.github.io/interview-audio/3.mp3"
+  },
+  {
+    "id": 4,
+    "content": "你遇到过最大的挫折是什么？是如何应对的？",
+    "audio": "https://wjz5788.github.io/interview-audio/4.mp3"
+  },
+  {
+    "id": 5,
+    "content": "你怎么看待团队合作？",
+    "audio": "https://wjz5788.github.io/interview-audio/5.mp3"
+  },
+  {
+    "id": 6,
+    "content": "你希望五年后自己处于什么位置？",
+    "audio": "https://wjz5788.github.io/interview-audio/6.mp3"
+  },
+  {
+    "id": 7,
+    "content": "你为什么离开上一家公司？",
+    "audio": "https://wjz5788.github.io/interview-audio/7.mp3"
+  },
+  {
+    "id": 8,
+    "content": "你有哪些兴趣爱好？",
+    "audio": "https://wjz5788.github.io/interview-audio/8.mp3"
+  },
+  {
+    "id": 9,
+    "content": "你有什么问题想问我们？",
+    "audio": "https://wjz5788.github.io/interview-audio/9.mp3"
+  },
+  {
+    "id": 10,
+    "content": "你觉得自己在本岗位上最大的优势是什么？",
+    "audio": "https://wjz5788.github.io/interview-audio/10.mp3"
+  },
+  {
+    "id": 11,
+    "content": "你能接受加班和出差吗？",
+    "audio": "https://wjz5788.github.io/interview-audio/11.mp3"
   }
 ]
