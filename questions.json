@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "content": "请简要介绍一下你自己。",
+    "audio": "https://yourname.github.io/interview-audio/q1_teacherA.mp3"
+  },
+  {
+    "id": 2,
+    "content": "请谈谈你的优缺点。",
+    "audio": "https://yourname.github.io/interview-audio/q2_teacherB.mp3"
+  },
+  {
+    "id": 3,
+    "content": "你为什么想加入我们公司？",
+    "audio": "https://yourname.github.io/interview-audio/q3_teacherA.mp3"
+  }
+]
